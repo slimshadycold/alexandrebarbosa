@@ -1,0 +1,1177 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/170.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1448.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo SP
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1493.ts
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Brasilia
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1446.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Minas
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1443.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/qnNMqsD.png" group-title="Canais Abertos",RBS TV Porto Alegre
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/43.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="TV Tem Sorocaba" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Canais Abertos",TV Tem Sorocaba
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1447.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="TV Tem Bauru" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Canais Abertos",TV Tem Bauru
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1444.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="TV Anhanguera Goiânia" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",TV Anhanguera Goiânia
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1445.ts
+#EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="Globo Portugal" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/448.ts
+#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="Globo Premium" tvg-logo="https://s15.postimg.org/55nkqx48b/globo_premium.png" group-title="Canais Abertos",Globo Premium
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/449.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band HD" tvg-logo="http://i.imgur.com/1yYrkhc.png" group-title="Canais Abertos",Band HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/193.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais Abertos",Band
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/124.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/147.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/36.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/149.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/41.ts
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="RecordTV HD Portugal" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV HD Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1124.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV! HD" tvg-logo="http://i.imgur.com/yxGs0mZ.png" group-title="Canais Abertos",RedeTV! HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/148.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Abertos",RedeTV!
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/39.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Canais Abertos",Rede Brasil
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/40.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura HD" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Canais Abertos",TV Cultura HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/564.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Canais Abertos",TV Cultura
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/8.ts
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV Gazeta HD" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais Abertos",TV Gazeta HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/570.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Canais Abertos",Futura
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/91.ts
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola HD" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="Canais Abertos",TV Escola HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/565.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Canais Abertos",TV Brasil
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/9.ts
+#EXTINF:-1 tvg-id="Rede Família" tvg-name="Rede Família HD" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="Canais Abertos",Rede Família HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/569.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="Canais Abertos",Terra Viva
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/16.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Canais Abertos",Canal Rural
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/119.ts
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="Canais Abertos",Canal do Boi
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="Canais Abertos",Agro Canal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="http://brasilruraltv.com.br/wp-content/uploads/2016/03/ms-icon-310x310.png" group-title="Canais Abertos",Brasil Rural TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1439.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais Abertos",NBR
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/63.ts
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Câmara" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Canais Abertos",TV Câmara
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/567.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Series",Telecine Premium HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/138.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Series",Telecine Premium
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/18.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Series",Telecine Action HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/141.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/22.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Series",Telecine Touch HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/137.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/17.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/139.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Series",Telecine Pipoca
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/19.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Series",Telecine Fun HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/140.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Series",Telecine Fun
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/20.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Series",Telecine Cult
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/21.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Series",HBO HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/165.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Series",HBO
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/84.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Series",HBO 2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/167.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/79.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Series",HBO Plus HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/164.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/82.ts
+#EXTINF:-1 tvg-id="HBO Plus Panregional" tvg-name="HBO Plus *e" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus *e
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/81.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Series",HBO Family HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/166.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Series",HBO Family
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/83.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Series",HBO Signature HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/163.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/80.ts
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="Max" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Series",Max
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/73.ts
+#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-name="Max UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Series",Max UP
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/70.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/72.ts
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-name="Max Prime *e" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime *e
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/71.ts
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Series",Cinemax
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/115.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Series",FOX HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/175.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Series",FOX
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/95.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1 HD" tvg-logo="http://i.imgur.com/UdWwHl4.png" group-title="Filmes e Series",FOX Premium 1 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/177.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2 HD" tvg-logo="http://i.imgur.com/nX8XMzD.png" group-title="Filmes e Series",FOX Premium 2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/176.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Series",FOX Life HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/174.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Series",FOX Life
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/94.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/171.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/90.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Series",Canal Sony HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/190.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Series",Canal Sony
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/118.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series",AXN HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/194.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Series",AXN
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/128.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="Filmes e Series",Warner Channel HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/580.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Series",Warner Channel
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/2.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/146.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/32.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/136.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/13.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Séries HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/135.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Séries
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/12.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/142.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/24.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Series",TCM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/23.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://i.imgur.com/L44p3if.png" group-title="Filmes e Series",I.Sat
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/78.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",Megapix HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/160.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",Megapix
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/69.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Series",Universal Channel HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/134.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Series",Universal Channel
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/5.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Series",Studio Universal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/26.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Series",A&E
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/132.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Series",Syfy
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/25.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Filmes e Series",Mais Globosat
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/74.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Series",Canal Brasil
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/120.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Series",Paramount Channel HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/155.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Series",Paramount
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/57.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Filmes e Series",Prime Box Brazil
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/45.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV HD" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/143.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/31.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2 HD" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/145.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/30.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3 HD" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/144.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/28.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="Esportes",FOX Sports HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/173.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",FOX Sports
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/93.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2 HD" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",FOX Sports 2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/172.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",FOX Sports 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/92.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil HD" tvg-logo="https://s15.postimg.org/osy22irjv/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/180.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/98.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/179.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/99.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +  HD" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +  HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1450.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/181.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/182.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/101.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2 HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/183.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/100.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/178.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",BandSports HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/192.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",BandSports
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/125.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/156.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/58.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FishTV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",FishTV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/97.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/189.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/114.ts
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC Internacional" tvg-logo="http://i.imgur.com/hjUfeVc.png" group-title="Esportes",PFC Internacional
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/588.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/154.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere Clubes
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 6
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 7
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 - Mosaico Jogos" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 8 - Mosaico Jogos
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 9
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 10" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 10
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 11" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 11
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/29.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Musicas",GNT HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/169.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Musicas",GNT
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/86.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",Viva HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/133.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",Viva
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/3.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/159.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/67.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Musicas",BIS HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/191.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Musicas",BIS
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/122.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Musicas",MTV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/68.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MegaHits" tvg-logo="http://i.imgur.com/qgozfSK.png" group-title="Variedades e Musicas",VH1 MegaHits
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/4.ts
+#EXTINF:-1 tvg-id="MixTV" tvg-name="Mix TV" tvg-logo="http://i.imgur.com/uCt1ZhV.png" group-title="Variedades e Musicas",Mix TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/572.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedades e Musicas",Music Box Brazil
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/66.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="Variedades e Musicas",Discovery Turbo HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/185.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Variedades e Musicas",Discovery Turbo
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/106.ts
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Variedades e Musicas",TruTV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/10.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades e Musicas",Comedy Central
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/113.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery HD" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Variedades e Musicas",Investigação Discovery HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/161.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Variedades e Musicas",Investigação Discovery
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/77.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://i.imgur.com/ccfBNRH.png" group-title="Variedades e Musicas",Discovery Home&Health HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/187.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Variedades e Musicas",Discovery Home&Health
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/109.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/2zr2KmL.png" group-title="Variedades e Musicas",Lifetime
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/75.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Variedades e Musicas",TLC
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/14.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Variedades e Musicas",E!
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/102.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades e Musicas",Food Network
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/96.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Variedades e Musicas",Curta!
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/112.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/RyMlI0l.png" group-title="Documentarios",Animal Planet HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/195.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentarios",Animal Planet
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/131.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentarios",Discovery Channel HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/188.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/111.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentarios",Discovery Theater HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/186.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentarios",Discovery World HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/184.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentarios",Discovery Science
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/107.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentarios",Discovery Civilization
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/110.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo HD" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentarios",Nat Geo HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/157.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentarios",Nat Geo
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/64.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",Nat Geo Wild HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/158.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",Nat Geo Wild
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/65.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel HD" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentarios",History Channel HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/162.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentarios",History
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/15.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentarios",H2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/168.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/85.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentarios",Arte 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/129.ts
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Noticias",GloboNews
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/88.ts
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Noticias",BandNews
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/126.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Noticias",Record News
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/42.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/121.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/127.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil",Cartoon Network
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/116.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/11.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/60.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/61.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/103.ts
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/105.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/104.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantil",Discovery Kids
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/108.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/87.ts
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PlayTV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Infantil",PlayTV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/56.ts
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Rá Tim Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá Tim Bum
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/7.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Cancao Nova" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Cancao Nova
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/117.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/38.ts
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/574.ts
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="Rede Super" tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="Religiosos",Rede Super
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/575.ts
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://i.imgur.com/mxBB8c4.png" group-title="Religiosos",RIT
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Gideões" tvg-logo="http://i.imgur.com/mwtWkvu.png" group-title="Religiosos",TV Gideões
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1214.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="http://i.imgur.com/liOLnFU.png" group-title="Religiosos",TV Novo Tempo
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/59.ts
+#EXTINF:-1 tvg-id="RBI TV" tvg-name="RBI" tvg-logo="http://i.imgur.com/y8YCFOZ.png" group-title="Religiosos",RBI
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/44.ts
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="Religiosos",Ideal TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/76.ts
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TVC1 HD" tvg-logo="http://i.imgur.com/vMR9wWm.png" group-title="Filmes e Series Portugal",TVC1 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1111.ts
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVC2 HD" tvg-logo="http://i.imgur.com/ugRnSbz.png" group-title="Filmes e Series Portugal",TVC2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1110.ts
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVC3 HD" tvg-logo="http://i.imgur.com/XeFAxLH.png" group-title="Filmes e Series Portugal",TVC3 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1109.ts
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVC4 HD" tvg-logo="http://i.imgur.com/zu4xq9a.png" group-title="Filmes e Series Portugal",TVC4 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1108.ts
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="TVS HD" tvg-logo="http://i.imgur.com/dtzTWIu.png" group-title="Filmes e Series Portugal",TVS HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1107.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX HD Portugal" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Series Portugal",FOX HD Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1051.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime HD" tvg-logo="http://i.imgur.com/DORlxwE.png" group-title="Filmes e Series Portugal",FOX Crime HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1050.ts
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy HD" tvg-logo="http://i.imgur.com/QWxs10M.png" group-title="Filmes e Series Portugal",FOX Comedy HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1049.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="FOX Life HD Portugal" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Series Portugal",FOX Life HD Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1052.ts
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies" tvg-logo="http://i.imgur.com/8orvOih.png" group-title="Filmes e Series Portugal",FOX Movies
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1053.ts
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Black HD" tvg-logo="http://i.imgur.com/jcsT9ui.png" group-title="Filmes e Series Portugal",AXN Black HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1014.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN HD Portugal" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series Portugal",AXN HD Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1015.ts
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD" tvg-logo="http://i.imgur.com/vTLTKe9.png" group-title="Filmes e Series Portugal",AXN White HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1016.ts
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://i.imgur.com/75htbjG.png" group-title="Filmes e Series Portugal",Hollywood HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1057.ts
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SyFy HD Portugal" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Series Portugal",SyFy HD Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1102.ts
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD Portugal" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Series Portugal",AMC HD Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1013.ts
+#EXTINF:-1 tvg-id="AandE.pt" tvg-name="A&E Portugal" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Series Portugal",A&E Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1011.ts
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo" tvg-logo="http://i.imgur.com/F2yMgKD.png" group-title="Filmes e Series Portugal",Cinemundo
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1030.ts
+#EXTINF:-1 tvg-id="BBCentertainment.pt" tvg-name="BBC Entertainment" tvg-logo="http://i.imgur.com/DSkbCYQ.png" group-title="Filmes e Series Portugal",BBC Entertainment
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1019.ts
+#EXTINF:-1 tvg-id="sporttvmais.pt" tvg-name="SPORT·TV+" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV+
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1099.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT·TV1 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV1 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1098.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT·TV2 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1097.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT·TV3 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV3 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1096.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT·TV4 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV4 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1095.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT·TV5 HD" tvg-logo="http://i.imgur.com/yPysPGV.png" group-title="Esportes Portugal",SPORT·TV5 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1094.ts
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="BTV HD" tvg-logo="http://i.imgur.com/vjKgvsb.png" group-title="Esportes Portugal",BTV HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1022.ts
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-name="Sporting TV HD" tvg-logo="http://i.imgur.com/Eho8ert.png" group-title="Esportes Portugal",Sporting TV HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1100.ts
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 Portugal" tvg-logo="http://i.imgur.com/Vy5xshi.png" group-title="Esportes Portugal",Eurosport 1 Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1044.ts
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 Portugal" tvg-logo="http://i.imgur.com/9AjNDfW.png" group-title="Esportes Portugal",Eurosport 2 Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1043.ts
+#EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV" tvg-logo="http://i.imgur.com/0YJ6DWt.png" group-title="Esportes Portugal",A Bola TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1010.ts
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="Fuel TV HD" tvg-logo="http://i.imgur.com/AKff1Rd.png" group-title="Esportes Portugal",Fuel TV HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1055.ts
+#EXTINF:-1 tvg-id="KombatSport.pt" tvg-name="Kombat Sport" tvg-logo="http://i.imgur.com/HqTltHY.png" group-title="Esportes Portugal",Kombat Sport
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1060.ts
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision HD" tvg-logo="http://i.imgur.com/zGQwFTP.png" group-title="Esportes Portugal",Motorvision HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motors TV" tvg-logo="http://i.imgur.com/qdgpQeF.png" group-title="Esportes Portugal",Motors TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1068.ts
+#EXTINF:-1 tvg-id="OutdoorChannel.eu" tvg-name="Outdoor Channel HD" tvg-logo="http://i.imgur.com/GYCbt9B.png" group-title="Esportes Portugal",Outdoor Channel HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1076.ts
+#EXTINF:-1 tvg-id="cazaepesca.pt" tvg-name="Caça e Pesca" tvg-logo="http://i.imgur.com/52E8cjp.png" group-title="Esportes Portugal",Caça e Pesca
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1024.ts
+#EXTINF:-1 tvg-id="CacaVision.pt" tvg-name="Caçavision" tvg-logo="http://i.imgur.com/rCNhiZ3.png" group-title="Esportes Portugal",Caçavision
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1025.ts
+#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros TV" tvg-logo="http://i.imgur.com/tRqHI9K.png" group-title="Esportes Portugal",Toros TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1104.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality" tvg-logo="http://i.imgur.com/Vf17zbR.png" group-title="Variedades e Musicas Portugal",TVI Reality
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1121.ts
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP1" tvg-logo="http://i.imgur.com/DlY0c61.png" group-title="Variedades e Musicas Portugal",RTP1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1078.ts
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP2" tvg-logo="http://i.imgur.com/aGpX9CJ.png" group-title="Variedades e Musicas Portugal",RTP2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1079.ts
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-name="RTP Açores" tvg-logo="http://i.imgur.com/SjjX8zy.png" group-title="Variedades e Musicas Portugal",RTP Açores
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1081.ts
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-name="RTP Madeira" tvg-logo="http://i.imgur.com/EjaIp8l.png" group-title="Variedades e Musicas Portugal",RTP Madeira
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1084.ts
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-name="RTP Africa" tvg-logo="http://i.imgur.com/ExEAffb.png" group-title="Variedades e Musicas Portugal",RTP Africa
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1082.ts
+#EXTINF:-1 tvg-id="rtpmemoria.pt" tvg-name="RTP Memória" tvg-logo="http://i.imgur.com/ZolxFJN.png" group-title="Variedades e Musicas Portugal",RTP Memória
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1085.ts
+#EXTINF:-1 tvg-id="sic.pt" tvg-name="SIC" tvg-logo="http://i.imgur.com/dID9nus.png" group-title="Variedades e Musicas Portugal",SIC
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1086.ts
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical" tvg-logo="http://i.imgur.com/DL4Ol4L.png" group-title="Variedades e Musicas Portugal",SIC Radical
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1092.ts
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="http://i.imgur.com/C42CGy3.png" group-title="Variedades e Musicas Portugal",SIC Mulher
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1090.ts
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras" tvg-logo="http://i.imgur.com/BAb6Qa5.png" group-title="Variedades e Musicas Portugal",SIC Caras
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1087.ts
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="Variedades e Musicas Portugal",TVI
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1112.ts
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção" tvg-logo="http://i.imgur.com/VMOabft.png" group-title="Variedades e Musicas Portugal",TVI Ficção
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1114.ts
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-name="Porto Canal" tvg-logo="http://i.imgur.com/fCA2V5E.png" group-title="Variedades e Musicas Portugal",Porto Canal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1077.ts
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="Canal Q" tvg-logo="http://i.imgur.com/8vFlN1O.png" group-title="Variedades e Musicas Portugal",Canal Q
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1027.ts
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-name="E! Portugal" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Variedades e Musicas Portugal",E! Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1038.ts
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel HD" tvg-logo="http://i.imgur.com/sy7iDMs.png" group-title="Variedades e Musicas Portugal",Travel Channel HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1106.ts
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC Portugal" tvg-logo="http://s7.postimg.org/9xq1acbgn/TLC.png" group-title="Variedades e Musicas Portugal",TLC Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1103.ts
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen HD" tvg-logo="http://i.imgur.com/YYhP6We.png" group-title="Variedades e Musicas Portugal",24Kitchen HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1009.ts
+#EXTINF:-1 tvg-id="CBSReality.pt" tvg-name="CBS Reality" tvg-logo="http://i.imgur.com/t50aWpf.png" group-title="Variedades e Musicas Portugal",CBS Reality
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1029.ts
+#EXTINF:-1 tvg-id="MCMPop.pt" tvg-name="MCM Pop" tvg-logo="http://i.imgur.com/Ic7RNlL.png" group-title="Variedades e Musicas Portugal",MCM Pop
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1063.ts
+#EXTINF:-1 tvg-id="mcmtop.pt" tvg-name="MCM Top" tvg-logo="http://i.imgur.com/na9CaCy.png" group-title="Variedades e Musicas Portugal",MCM Top
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1064.ts
+#EXTINF:-1 tvg-id="mtvportugal.pt" tvg-name="MTV Portugal" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Musicas Portugal",MTV Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1071.ts
+#EXTINF:-1 tvg-id="vh1.pt" tvg-name="VH1 Portugal" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedades e Musicas Portugal",VH1 Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1122.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="http://i.imgur.com/Jk5eOfi.png" group-title="Variedades e Musicas Portugal",VH1 Classic
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1123.ts
+#EXTINF:-1 tvg-id="C-Music.pt" tvg-name="C Music TV" tvg-logo="http://i.imgur.com/r6jfioQ.png" group-title="Variedades e Musicas Portugal",C Music TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1023.ts
+#EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-name="Trace Urban" tvg-logo="http://i.imgur.com/Ex2jAnU.png" group-title="Variedades e Musicas Portugal",Trace Urban
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1105.ts
+#EXTINF:-1 tvg-id="AfroMusic.pt" tvg-name="Afro Music Channel" tvg-logo="http://i.imgur.com/5n9UKyi.png" group-title="Variedades e Musicas Portugal",Afro Music Channel
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1012.ts
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel Portugal" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentarios Portugal",Discovery Channel Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1033.ts
+#EXTINF:-1 tvg-id="DiscoveryHDShowcase.pt" tvg-name="Discovery Showcase HD" tvg-logo="http://i.imgur.com/VT4A3hc.png" group-title="Documentarios Portugal",Discovery Showcase HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1034.ts
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic Channel HD Portugal" tvg-logo="https://s16.postimg.org/p7ce9i39x/natgeo.png" group-title="Documentarios Portugal",National Geographic Channel HD Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1073.ts
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="Nat Geo Wild HD Portugal" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios Portugal",Nat Geo Wild HD Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1072.ts
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="Historia" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentarios Portugal",Historia
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1056.ts
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="http://i.imgur.com/DMdzgxc.png" group-title="Documentarios Portugal",Odisseia
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1075.ts
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Noticias" tvg-logo="http://i.imgur.com/qpsjiJx.png" group-title="Noticias Portugal",SIC Noticias
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1091.ts
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP3" tvg-logo="http://i.imgur.com/HTl4qof.png" group-title="Noticias Portugal",RTP3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1080.ts
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI24" tvg-logo="http://i.imgur.com/XTWxRVh.png" group-title="Noticias Portugal",TVI24
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1113.ts
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="http://i.imgur.com/KL8xP39.png" group-title="Noticias Portugal",CMTV HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1031.ts
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="Euronews" tvg-logo="http://i.imgur.com/E21TLEy.png" group-title="Noticias Portugal",Euronews
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1040.ts
+#EXTINF:-1 tvg-id="cartoon.pt" tvg-name="Cartoon Network Portugal" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil Portugal",Cartoon Network Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1028.ts
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel Portugal" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil Portugal",Disney Channel Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1035.ts
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="Disney Junior Portugal" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil Portugal",Disney Junior Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1036.ts
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon Portugal" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil Portugal",Nickelodeon Portugal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1074.ts
+#EXTINF:-1 tvg-id="canalpanda.pt" tvg-name="Canal Panda" tvg-logo="http://i.imgur.com/DGPFleH.png" group-title="Infantil Portugal",Canal Panda
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1026.ts
+#EXTINF:-1 tvg-id="PandaBiggs.pt" tvg-name="Biggs" tvg-logo="http://i.imgur.com/ZjJZuSe.png" group-title="Infantil Portugal",Biggs
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1020.ts
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="SIC Kapa" tvg-logo="http://i.imgur.com/jfw8T9B.png" group-title="Infantil Portugal",SIC Kapa
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1088.ts
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="JimJam" tvg-logo="http://i.imgur.com/iGmOgW3.png" group-title="Infantil Portugal",JimJam
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1059.ts
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="Baby TV" tvg-logo="http://i.imgur.com/79c7CdA.png" group-title="Infantil Portugal",Baby TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1018.ts
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN1 HD" tvg-logo="http://i.imgur.com/luGe2J8.png" group-title="Estados Unidos",TSN1 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1008.ts
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN2 HD" tvg-logo="http://i.imgur.com/E5vXTJG.png" group-title="Estados Unidos",TSN2 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1007.ts
+#EXTINF:-1 tvg-id="TSN 3" tvg-name="TSN3 HD" tvg-logo="http://i.imgur.com/PRnPLWq.png" group-title="Estados Unidos",TSN3 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1006.ts
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN4 HD" tvg-logo="http://i.imgur.com/cnOzhHY.png" group-title="Estados Unidos",TSN4 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1005.ts
+#EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN5 HD" tvg-logo="http://i.imgur.com/jdR9opD.png" group-title="Estados Unidos",TSN5 HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1004.ts
+#EXTINF:-1 tvg-id="Fox Sports 1 (US)" tvg-name="FOX Sports 1 HD USA" tvg-logo="http://i.imgur.com/32eu7Y7.png" group-title="Estados Unidos",FOX Sports 1 HD USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/998.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 HD USA" tvg-logo="http://i.imgur.com/M4N6kM0.png" group-title="Estados Unidos",FOX Sports 2 HD USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/997.ts
+#EXTINF:-1 tvg-id="ESPN (US)" tvg-name="ESPN HD USA" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Estados Unidos",ESPN HD USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1270.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD" tvg-logo="http://i.imgur.com/NJkCkmV.png" group-title="Estados Unidos",NFL Network HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1000.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="http://i.imgur.com/ENG1GYF.png" group-title="Estados Unidos",MLB Network
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1282.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV USA" tvg-logo="http://i.imgur.com/1tzZuaF.png" group-title="Estados Unidos",NBA TV USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1003.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD" tvg-logo="http://i.imgur.com/teWHw5V.png" group-title="Estados Unidos",WWE Network HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1002.ts
+#EXTINF:-1 tvg-id="NBC Sports Network (US)" tvg-name="NBCSN" tvg-logo="http://i.imgur.com/6YeE9QM.png" group-title="Estados Unidos",NBCSN
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1280.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="http://i.imgur.com/cnJJZys.png" group-title="Estados Unidos",NBC Golf
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1001.ts
+#EXTINF:-1 tvg-id="ABC (US)" tvg-name="ABC HD" tvg-logo="http://i.imgur.com/dRMIwNg.png" group-title="Estados Unidos",ABC HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/992.ts
+#EXTINF:-1 tvg-id="ABC Family (US)" tvg-name="Freeform" tvg-logo="http://i.imgur.com/PXK5NjS.png" group-title="Estados Unidos",Freeform
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1281.ts
+#EXTINF:-1 tvg-id="USA (US)" tvg-name="USA HD" tvg-logo="http://i.imgur.com/RYbtjry.png" group-title="Estados Unidos",USA HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1284.ts
+#EXTINF:-1 tvg-id="NBC (US)" tvg-name="NBC" tvg-logo="http://i.imgur.com/hqOfsNl.png" group-title="Estados Unidos",NBC
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1286.ts
+#EXTINF:-1 tvg-id="CW (US)" tvg-name="CW HD" tvg-logo="http://i.imgur.com/xq7xFPg.png" group-title="Estados Unidos",CW HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1285.ts
+#EXTINF:-1 tvg-id="AMC (US)" tvg-name="AMC HD USA" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Estados Unidos",AMC HD USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1275.ts
+#EXTINF:-1 tvg-id="CBS (US)" tvg-name="CBS" tvg-logo="http://i.imgur.com/UmSi5js.png" group-title="Estados Unidos",CBS
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1288.ts
+#EXTINF:-1 tvg-id="HBO (US)" tvg-name="HBO USA" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Estados Unidos",HBO USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/991.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="http://i.imgur.com/P4hS52T.png" group-title="Estados Unidos",HBO Comedy
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/990.ts
+#EXTINF:-1 tvg-id="FOX (US)" tvg-name="FOX HD USA" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Estados Unidos",FOX HD USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/598.ts
+#EXTINF:-1 tvg-id="FX (US)" tvg-name="FX HD USA" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Estados Unidos",FX HD USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge" tvg-logo="http://i.imgur.com/MRP00Nj.png" group-title="Estados Unidos",Starz Edge
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/993.ts
+#EXTINF:-1 tvg-id="A&E (US)" tvg-name="A&E HD USA" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Estados Unidos",A&E HD USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1289.ts
+#EXTINF:-1 tvg-id="Spike (US)" tvg-name="Spike HD" tvg-logo="http://i.imgur.com/x7LmSXL.png" group-title="Estados Unidos",Spike HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1277.ts
+#EXTINF:-1 tvg-id="Showtime (US)" tvg-name="Showtime" tvg-logo="http://i.imgur.com/lZm6Aks.png" group-title="Estados Unidos",Showtime
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1278.ts
+#EXTINF:-1 tvg-id="Bravo (US)" tvg-name="Bravo" tvg-logo="http://i.imgur.com/FO9wkK1.png" group-title="Estados Unidos",Bravo
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax USA" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Estados Unidos",Cinemax USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/988.ts
+#EXTINF:-1 tvg-id="Discovery Channel (US)" tvg-name="Discovery Channel USA HD" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Estados Unidos",Discovery Channel USA HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1279.ts
+#EXTINF:-1 tvg-id="Discovery Science (US)" tvg-name="Discovery Science USA" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Estados Unidos",Discovery Science USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1276.ts
+#EXTINF:-1 tvg-id="Cartoon Network (US)" tvg-name="Cartoon Network USA" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Estados Unidos",Cartoon Network USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1283.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD USA" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Estados Unidos",Nick HD USA
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/994.ts
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTV Rocks" tvg-logo="http://i.imgur.com/0hBQYbt.png" group-title="Internacionais",MTV Rocks
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1180.ts
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV Base" tvg-logo="http://i.imgur.com/huILzzC.png" group-title="Internacionais",MTV Base
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1070.ts
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTV Dance" tvg-logo="http://i.imgur.com/BlUYRgS.png" group-title="Internacionais",MTV Dance
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1062.ts
+#EXTINF:-1 tvg-id="CanalPlusFutbol.es" tvg-name="Movistar Fútbol HD" tvg-logo="http://i.imgur.com/rsQuopc.png" group-title="Esportes Internacionais",Movistar Fútbol HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1132.ts
+#EXTINF:-1 tvg-id="CanalPlusDeportes.es" tvg-name="Movistar Deportes 1" tvg-logo="http://i.imgur.com/P5aVrB3.png" group-title="Esportes Internacionais",Movistar Deportes 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1131.ts
+#EXTINF:-1 tvg-id="CanalPlusDeportes2.es" tvg-name="Movistar Deportes 2" tvg-logo="http://i.imgur.com/uQkDxiG.png" group-title="Esportes Internacionais",Movistar Deportes 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1130.ts
+#EXTINF:-1 tvg-id="MovistarMotoGP.es" tvg-name="Movistar MotoGP HD" tvg-logo="http://i.imgur.com/y6fz6xy.png" group-title="Esportes Internacionais",Movistar MotoGP HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1129.ts
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="Movistar F1" tvg-logo="http://i.imgur.com/Hqj61nQ.png" group-title="Esportes Internacionais",Movistar F1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1482.ts
+#EXTINF:-1 tvg-id="Golf.sp" tvg-name="Movistar Golf HD" tvg-logo="http://i.imgur.com/ufBud1Q.png" group-title="Esportes Internacionais",Movistar Golf HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1133.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN LaLiga" tvg-logo="http://i.imgur.com/vyud0is.png" group-title="Esportes Internacionais",beIN LaLiga
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1140.ts
+#EXTINF:-1 tvg-id="BeINSports.es" tvg-name="beIN Spots" tvg-logo="http://i.imgur.com/qDeCYox.png" group-title="Esportes Internacionais",beIN Spots
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1137.ts
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV HD" tvg-logo="http://i.imgur.com/oje3OQE.png" group-title="Esportes Internacionais",LaLiga TV HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1145.ts
+#EXTINF:-1 tvg-id="Barca.pt" tvg-name="Barça TV" tvg-logo="http://i.imgur.com/nNeiCDD.png" group-title="Esportes Internacionais",Barça TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1141.ts
+#EXTINF:-1 tvg-id="RealMadridTV.sp" tvg-name="Real Madrid TV" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes Internacionais",Real Madrid TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1128.ts
+#EXTINF:-1 tvg-id="beINSport1.fr" tvg-name="beIN Sports 1" tvg-logo="http://i.imgur.com/xy2DvHe.png" group-title="Esportes Internacionais",beIN Sports 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1160.ts
+#EXTINF:-1 tvg-id="beINSport2.fr" tvg-name="beIN Sports 2" tvg-logo="http://i.imgur.com/VxFOLTo.png" group-title="Esportes Internacionais",beIN Sports 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1159.ts
+#EXTINF:-1 tvg-id="beINSport3.fr" tvg-name="beIN Sports 3" tvg-logo="http://i.imgur.com/IZHi0Gd.png" group-title="Esportes Internacionais",beIN Sports 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1158.ts
+#EXTINF:-1 tvg-id="BeInSportMax4.fr" tvg-name="BeIN Sports Max 4" tvg-logo="http://i.imgur.com/gJbkbJp.png" group-title="Esportes Internacionais",BeIN Sports Max 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1157.ts
+#EXTINF:-1 tvg-id="BeInSportMax5.fr" tvg-name="BeIN Sports Max 5" tvg-logo="http://i.imgur.com/gJbkbJp.png" group-title="Esportes Internacionais",BeIN Sports Max 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1156.ts
+#EXTINF:-1 tvg-id="BeInSportMax6.fr" tvg-name="BeIN Sports Max 6" tvg-logo="http://i.imgur.com/gJbkbJp.png" group-title="Esportes Internacionais",BeIN Sports Max 6
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1155.ts
+#EXTINF:-1 tvg-id="BeInSportMax7.fr" tvg-name="BeIN Sports Max 7" tvg-logo="http://i.imgur.com/gJbkbJp.png" group-title="Esportes Internacionais",BeIN Sports Max 7
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1154.ts
+#EXTINF:-1 tvg-id="CANALplusSPORT.fr" tvg-name="Canal+  Sport HD" tvg-logo="http://i.imgur.com/tX0xgDr.png" group-title="Esportes Internacionais",Canal+  Sport HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1161.ts
+#EXTINF:-1 tvg-id="SFRSport1.fr" tvg-name="SFR Sport 1" tvg-logo="http://i.imgur.com/b465n2P.png" group-title="Esportes Internacionais",SFR Sport 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1149.ts
+#EXTINF:-1 tvg-id="SFRSport2.fr" tvg-name="SFR Sport 2" tvg-logo="http://i.imgur.com/1LWMHjy.png" group-title="Esportes Internacionais",SFR Sport 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1148.ts
+#EXTINF:-1 tvg-id="SFRSport3.fr" tvg-name="SFR Sport 3" tvg-logo="http://i.imgur.com/BV6vbmH.png" group-title="Esportes Internacionais",SFR Sport 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1147.ts
+#EXTINF:-1 tvg-id="Foot24.fr" tvg-name="Foot+ 24/24" tvg-logo="http://i.imgur.com/roFfRWQ.png" group-title="Esportes Internacionais",Foot+ 24/24
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1152.ts
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="http://i.imgur.com/e4Ea66W.png" group-title="Esportes Internacionais",BT Sport 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1185.ts
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="http://i.imgur.com/vs69EWY.png" group-title="Esportes Internacionais",BT Sport 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1184.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="http://i.imgur.com/mEa0qpf.png" group-title="Esportes Internacionais",BT Sport 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1183.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="BT Sport ESPN" tvg-logo="http://i.imgur.com/atODaxk.png" group-title="Esportes Internacionais",BT Sport ESPN
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1182.ts
+#EXTINF:-1 tvg-id="BoxNationHD.uk" tvg-name="Box Nation" tvg-logo="http://i.imgur.com/4xFYQ70.png" group-title="Esportes Internacionais",Box Nation
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1190.ts
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea TV" tvg-logo="http://i.imgur.com/nkZX7FD.png" group-title="Esportes Internacionais",Chelsea TV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1181.ts
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="http://i.imgur.com/yjjCz8Z.png" group-title="Esportes Internacionais",MUTV
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1179.ts
+#EXTINF:-1 tvg-id="SkySports1.uk" tvg-name="Sky Sports 1" tvg-logo="http://i.imgur.com/rUG9vUO.png" group-title="Esportes Internacionais",Sky Sports 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1166.ts
+#EXTINF:-1 tvg-id="SkySports2.uk" tvg-name="Sky Sports 2" tvg-logo="http://i.imgur.com/RBn3vba.png" group-title="Esportes Internacionais",Sky Sports 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1165.ts
+#EXTINF:-1 tvg-id="SkySports3.uk" tvg-name="Sky Sports 3" tvg-logo="http://i.imgur.com/HKrQMWP.png" group-title="Esportes Internacionais",Sky Sports 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1164.ts
+#EXTINF:-1 tvg-id="SkySports4.uk" tvg-name="Sky Sports 4" tvg-logo="http://i.imgur.com/KlMjHqK.png" group-title="Esportes Internacionais",Sky Sports 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1163.ts
+#EXTINF:-1 tvg-id="SkySports5.uk" tvg-name="Sky Sports 5" tvg-logo="http://i.imgur.com/nvhQzit.png" group-title="Esportes Internacionais",Sky Sports 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1162.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="Sky Sports F1" tvg-logo="http://i.imgur.com/Igl3Vyy.png" group-title="Esportes Internacionais",Sky Sports F1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1168.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News HQ" tvg-logo="http://i.imgur.com/8AdYf3x.png" group-title="Esportes Internacionais",Sky Sports News HQ
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1167.ts
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports" tvg-logo="http://i.imgur.com/FYYQmns.png" group-title="Esportes Internacionais",Premier Sports
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1169.ts
+#EXTINF:-1 tvg-id="FOX Sports 1 (Nl)" tvg-name="FOX Sports 1 Holanda" tvg-logo="http://i.imgur.com/LapxWHv.png" group-title="Esportes Internacionais",FOX Sports 1 Holanda
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1178.ts
+#EXTINF:-1 tvg-id="FOX Sports 2 (Nl)" tvg-name="FOX Sports 2 Holanda" tvg-logo="http://i.imgur.com/jgH4DmY.png" group-title="Esportes Internacionais",FOX Sports 2 Holanda
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1176.ts
+#EXTINF:-1 tvg-id="FOX Sports 3 (Nl)" tvg-name="FOX Sports 3 Holanda" tvg-logo="http://i.imgur.com/tTagWhy.png" group-title="Esportes Internacionais",FOX Sports 3 Holanda
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1177.ts
+#EXTINF:-1 tvg-id="FOX Sports 4 (Nl)" tvg-name="FOX Sports 4 Holanda" tvg-logo="http://i.imgur.com/a2T3E2X.png" group-title="Esportes Internacionais",FOX Sports 4 Holanda
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1175.ts
+#EXTINF:-1 tvg-id="FOX Sports 5 (Nl)" tvg-name="FOX Sports 5 Holanda" tvg-logo="http://i.imgur.com/CrkyT24.png" group-title="Esportes Internacionais",FOX Sports 5 Holanda
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1173.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 6 Holanda" tvg-logo="http://i.imgur.com/ybfEunv.png" group-title="Esportes Internacionais",FOX Sports 6 Holanda
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1174.ts
+#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1" tvg-logo="http://i.imgur.com/SGDjE6s.png" group-title="Esportes Internacionais",Arena Sport 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1453.ts
+#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="Arena Sport 2" tvg-logo="http://i.imgur.com/UkcNf6I.png" group-title="Esportes Internacionais",Arena Sport 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1454.ts
+#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="Arena Sport 3" tvg-logo="http://i.imgur.com/2zG2pKX.png" group-title="Esportes Internacionais",Arena Sport 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1455.ts
+#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="Arena Sport 4" tvg-logo="http://i.imgur.com/ziyDCBS.png" group-title="Esportes Internacionais",Arena Sport 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1456.ts
+#EXTINF:-1 tvg-id="Arena Sport 5" tvg-name="Arena Sport 5" tvg-logo="http://i.imgur.com/cG2Vl3v.png" group-title="Esportes Internacionais",Arena Sport 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1457.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Votbal" tvg-logo="http://i.imgur.com/q3RWFne.png" group-title="Esportes Internacionais",Ziggo Sport Votbal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1469.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport 1 Select" tvg-logo="http://i.imgur.com/q3RWFne.png" group-title="Esportes Internacionais",Ziggo Sport 1 Select
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1467.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf" tvg-logo="http://i.imgur.com/q3RWFne.png" group-title="Esportes Internacionais",Ziggo Sport Golf
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1466.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Racing" tvg-logo="http://i.imgur.com/q3RWFne.png" group-title="Esportes Internacionais",Ziggo Sport Racing
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1468.ts
+#EXTINF:-1 tvg-id="Sport Klub 1 SLO" tvg-name="Sport Klub 1" tvg-logo="http://i.imgur.com/uERspEl.png" group-title="Esportes Internacionais",Sport Klub 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1475.ts
+#EXTINF:-1 tvg-id="Sport Klub 2 HR" tvg-name="Sport Klub 2" tvg-logo="http://i.imgur.com/48Ra4Nz.png" group-title="Esportes Internacionais",Sport Klub 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1473.ts
+#EXTINF:-1 tvg-id="Sport Klub 3 SLO" tvg-name="Sport Klub 3" tvg-logo="http://i.imgur.com/NnKFTlV.png" group-title="Esportes Internacionais",Sport Klub 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1474.ts
+#EXTINF:-1 tvg-id="Sport Klub 4" tvg-name="Sport Klub 4" tvg-logo="http://i.imgur.com/osaygMf.png" group-title="Esportes Internacionais",Sport Klub 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1472.ts
+#EXTINF:-1 tvg-id="Sport Klub 5" tvg-name="Sport Klub 5" tvg-logo="http://i.imgur.com/W63WklU.png" group-title="Esportes Internacionais",Sport Klub 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1471.ts
+#EXTINF:-1 tvg-id="Sport Klub 6" tvg-name="Sport Klub 6" tvg-logo="http://i.imgur.com/bvD8z6W.png" group-title="Esportes Internacionais",Sport Klub 6
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1470.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 1" tvg-logo="http://i.imgur.com/YFyCkgU.png" group-title="Esportes Internacionais",AD Sport 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1476.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 2" tvg-logo="http://i.imgur.com/43GQlOW.png" group-title="Esportes Internacionais",AD Sport 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1477.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 3" tvg-logo="http://i.imgur.com/UOQyRNg.png" group-title="Esportes Internacionais",AD Sport 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1478.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 4" tvg-logo="http://i.imgur.com/x11UL6A.png" group-title="Esportes Internacionais",AD Sport 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1479.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 5" tvg-logo="http://i.imgur.com/Mo2i1aC.png" group-title="Esportes Internacionais",AD Sport 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1480.ts
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 6" tvg-logo="http://i.imgur.com/2F2CRP7.png" group-title="Esportes Internacionais",AD Sport 6
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1481.ts
+#EXTINF:-1 tvg-id="PremiumSport.it" tvg-name="Premium Sport" tvg-logo="http://i.imgur.com/iHrYl4m.png" group-title="Esportes Internacionais",Premium Sport
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1465.ts
+#EXTINF:-1 tvg-id="PremiumSport2.it" tvg-name="Premium Sport 2" tvg-logo="http://i.imgur.com/W3XKXio.png" group-title="Esportes Internacionais",Premium Sport 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1464.ts
+#EXTINF:-1 tvg-id="PremiumCalcio1.it" tvg-name="Premium Calcio 1" tvg-logo="http://i.imgur.com/y4ZypZG.png" group-title="Esportes Internacionais",Premium Calcio 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1463.ts
+#EXTINF:-1 tvg-id="PremiumCalcio2.it" tvg-name="Premium Calcio 2" tvg-logo="http://i.imgur.com/R7AjMLt.png" group-title="Esportes Internacionais",Premium Calcio 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1462.ts
+#EXTINF:-1 tvg-id="PremiumCalcio3.it" tvg-name="Premium Calcio 3" tvg-logo="http://i.imgur.com/tV1aseH.png" group-title="Esportes Internacionais",Premium Calcio 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1461.ts
+#EXTINF:-1 tvg-id="PremiumCalcio4.it" tvg-name="Premium Calcio 4" tvg-logo="http://i.imgur.com/akXawaZ.png" group-title="Esportes Internacionais",Premium Calcio 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1460.ts
+#EXTINF:-1 tvg-id="PremiumCalcio5.it" tvg-name="Premium Calcio 5" tvg-logo="http://i.imgur.com/qvnSlgw.png" group-title="Esportes Internacionais",Premium Calcio 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1459.ts
+#EXTINF:-1 tvg-id="PremiumCalcio6.it" tvg-name="Premium Calcio 6" tvg-logo="http://i.imgur.com/neAth90.png" group-title="Esportes Internacionais",Premium Calcio 6
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1458.ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="http://i.imgur.com/eBfLfoO.png" group-title="Italia",RAI 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1199.ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="http://i.imgur.com/QPnMBao.png" group-title="Italia",RAI 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1198.ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="http://i.imgur.com/E3OKGDV.png" group-title="Italia",RAI 3
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1197.ts
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="http://i.imgur.com/6jXy9er.png" group-title="Italia",RAI 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1196.ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="http://i.imgur.com/Qrn80KO.png" group-title="Italia",RAI 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1195.ts
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="http://i.imgur.com/ntMyvYv.png" group-title="Italia",Italia 1
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1126.ts
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia 2" tvg-logo="http://i.imgur.com/lmSseSV.png" group-title="Italia",Italia 2
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1125.ts
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="http://i.imgur.com/QSnsIPi.png" group-title="Italia",Rete 4
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1144.ts
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="http://i.imgur.com/bSqcK2e.png" group-title="Italia",Canale 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1039.ts
+#EXTINF:-1 tvg-id="LA5.it" tvg-name="La 5" tvg-logo="http://i.imgur.com/vdgFibN.png" group-title="Italia",La 5
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/999.ts
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA 7" tvg-logo="http://i.imgur.com/sS8iQPp.png" group-title="Italia",LA 7
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/987.ts
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="http://i.imgur.com/I9RkM9B.png" group-title="Italia",Real Time
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1089.ts
+#EXTINF:-1 tvg-id="PremiumCrimePlus24.it" tvg-name="Premium Crime +24" tvg-logo="http://i.imgur.com/vFrfapj.png" group-title="Italia",Premium Crime +24
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1139.ts
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="http://i.imgur.com/RytlXup.png" group-title="Italia",Top Crime
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1067.ts
+#EXTINF:-1 tvg-id="FoxLife.it" tvg-name="Fox Life Italia" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Italia",Fox Life Italia
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1138.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News HD" tvg-logo="http://i.imgur.com/BGYt0oy.png" group-title="Internacionais",ABC News HD
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1192.ts
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" tvg-name="BBC World News" tvg-logo="http://i.imgur.com/vK8BnTQ.png" group-title="Internacionais",BBC World News
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1188.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Internacional" tvg-logo="http://i.imgur.com/EQG9OOD.png" group-title="Internacionais",CBS News Internacional
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1191.ts
+#EXTINF:-1 tvg-id="FOXNews.uk" tvg-name="FOX News" tvg-logo="http://i.imgur.com/dFhQAGv.png" group-title="Internacionais",FOX News
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1189.ts
+#EXTINF:-1 tvg-id="Bloomberg.nws" tvg-name="Bloomberg" tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="Internacionais",Bloomberg
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1021.ts
+#EXTINF:-1 tvg-id="CNN.nws" tvg-name="CNN" tvg-logo="http://i.imgur.com/i40rOj3.png" group-title="Internacionais",CNN
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1187.ts
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="SIC Internacional" tvg-logo="http://i.imgur.com/GsoX6Ep.png" group-title="Internacionais",SIC Internacional
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/33.ts
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-name="RTP Internacional" tvg-logo="http://i.imgur.com/yywr0qy.png" group-title="Internacionais",RTP Internacional
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/1083.ts
+#EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK World" tvg-logo="http://i.imgur.com/97S2U28.png" group-title="Internacionais",NHK World
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBN" tvg-logo="http://i.imgur.com/FYH0DrA.png" group-title="Radios",CBN
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega FM" tvg-logo="http://i.imgur.com/7jTHhzT.png" group-title="Radios",Mega FM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo SP" tvg-logo="http://i.imgur.com/SfwLMid.png" group-title="Radios",Rádio Globo SP
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/983.ts
+#EXTINF:-1 tvg-id="" tvg-name="BH FM" tvg-logo="http://i.imgur.com/cntzzTI.png" group-title="Radios",BH FM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/982.ts
+#EXTINF:-1 tvg-id="" tvg-name="Joven Pan AM" tvg-logo="http://i.imgur.com/e9tIuVM.png" group-title="Radios",Joven Pan AM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Joven Pan FM" tvg-logo="http://i.imgur.com/NzenjYr.png" group-title="Radios",Joven Pan FM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/980.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Gaúcha" tvg-logo="http://i.imgur.com/CzEMQQz.png" group-title="Radios",Rádio Gaúcha
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/979.ts
+#EXTINF:-1 tvg-id="" tvg-name="RFI" tvg-logo="http://i.imgur.com/Pis6I3p.png" group-title="Radios",RFI
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/978.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Globo RJ" tvg-logo="http://i.imgur.com/SfwLMid.png" group-title="Radios",Rádio Globo RJ
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/977.ts
+#EXTINF:-1 tvg-id="" tvg-name="Transamérica" tvg-logo="http://i.imgur.com/udIpXmJ.png" group-title="Radios",Transamérica
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/976.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nativa" tvg-logo="http://i.imgur.com/SuIdADT.png" group-title="Radios",Nativa
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/975.ts
+#EXTINF:-1 tvg-id="" tvg-name="BandNews FM" tvg-logo="http://i.imgur.com/EXrKRuv.png" group-title="Radios",BandNews FM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/974.ts
+#EXTINF:-1 tvg-id="" tvg-name="Itatiaia AM-FM" tvg-logo="http://i.imgur.com/5CS0Fqq.png" group-title="Radios",Itatiaia AM-FM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Verdes Mares" tvg-logo="http://i.imgur.com/CQtlKq8.png" group-title="Radios",Verdes Mares
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Clube FM" tvg-logo="http://i.imgur.com/6u6laaU.png" group-title="Radios",Clube FM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Bandeirantes" tvg-logo="http://i.imgur.com/MPW7Ryz.png" group-title="Radios",Rádio Bandeirantes
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band FM" tvg-logo="http://i.imgur.com/wvmPr5Z.png" group-title="Radios",Band FM
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Kids
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/557.ts
+#EXTINF:-1 tvg-id="" tvg-name="MPB" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",MPB
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bossa Nova" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Bossa Nova
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Forró" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Forró
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pagode" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pagode
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 2000
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sertanejo" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Sertanejo
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Funk" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Funk
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock Clássico" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rock Clássico
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lounge" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Lounge
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Rock" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pop Rock
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 70
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 80" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 80
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 90" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 90
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Românticas" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Românticas
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rap Nacional" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rap Nacional
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock Brasil" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rock Brasil
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eletrônica" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Eletrônica
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Festa" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Festa
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Gospel
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hop" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Hip Hop
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jazz" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Jazz
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Axé" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Axé
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brega" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Brega
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Música Clássica" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Música Clássica
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/533.ts
+#EXTINF:-1 tvg-id="" tvg-name="New Rock" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",New Rock
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reggae" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Reggae
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sertanejo Universitário" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Sertanejo Universitário
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="Samba de Raiz" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Samba de Raiz
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pop Hits
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Metal" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Metal
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trilhas Sonoras" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Trilhas Sonoras
+http://mundogf.dyndns.tv:25461/live/alexandrebarbosa/alexandrebarbosa/526.ts
+#EXTINF:-1 tvg-id="" tvg-name="10.000 ANOS DEPOIS (2015) DUB" tvg-logo="http://www.piratefilmeshd.org/wp-content/uploads/2017/01/Filme-10000-Anos-Depois.jpg" group-title="On Demand: Degustação",10.000 ANOS DEPOIS (2015) DUB
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZjEzMmFlNWUtYTFhOC00ZDMxLTllZmItZjc3ODMwNTk2ZmNlXkEyXkFqcGdeQXVyNTY2ODgzODg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A Bailarina (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2017) - DUB" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A Bela e a Fera (2017) - DUB
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI3MDMxNzcxNl5BMl5BanBnXkFtZTgwODc4MzkwOTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A Cabana (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Chegada (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A Chegada (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A ERA DO GELO (2002)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzI1ODA0MF5BMl5BanBnXkFtZTYwODIxODY3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A ERA DO GELO (2002)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A ERA DO GELO 2 (2006)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A ERA DO GELO 2 (2006)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A ERA DO GELO 3 (2009)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDI0Mjg4NV5BMl5BanBnXkFtZTcwOTM1NTY0Mg@@._V1_UY268_CR5,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A ERA DO GELO 3 (2009)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A ERA DO GELO 4 (2012)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A ERA DO GELO 4 (2012)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A ERA DO GELO: O BIG BANG (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMTk2ODc1OV5BMl5BanBnXkFtZTgwMzU4MzgzOTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A ERA DO GELO: O BIG BANG (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Grande Muralha - LEG" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3MjAzOTQxNF5BMl5BanBnXkFtZTgwOTc5OTY1OTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",A Grande Muralha - LEG
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ABRIL E O MUNDO EXTRAORDINÁRIO (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZmNjNjA4YzktODk5Yy00N2Q0LTgyMGMtZGIxMjJkNDVjY2Q3XkEyXkFqcGdeQXVyMTc5NTU1NDU@._V1_UY268_CR7,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ABRIL E O MUNDO EXTRAORDINÁRIO (2015)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN E OS ESQUILOS (20O7)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjdmNWY4MjItMjBiMi00MWNiLWI0ZjctYzBjZmEzOGRmNTc5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ALVIN E OS ESQUILOS (20O7)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN E OS ESQUILOS 2 (20O9)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0NTc3MjU5M15BMl5BanBnXkFtZTcwODM4Nzg2Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ALVIN E OS ESQUILOS 2 (20O9)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN E OS ESQUILOS 3 (2011)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyMTU3NTg5Nl5BMl5BanBnXkFtZTcwNDMyMjc2NQ@@._V1.._UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ALVIN E OS ESQUILOS 3 (2011)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN E OS ESQUILOS: NA ESTRADA (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NjQyNTkyOF5BMl5BanBnXkFtZTgwNzA3OTUyNzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ALVIN E OS ESQUILOS: NA ESTRADA (2015)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANJOS DA NOITE: A EVOLUÇÃO (2006)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ANJOS DA NOITE: A EVOLUÇÃO (2006)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANJOS DA NOITE: A REBELIÃO (2009)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1OTU5ODc0MV5BMl5BanBnXkFtZTcwNDYyMDUwMg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ANJOS DA NOITE: A REBELIÃO (2009)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: Guerras de Sangue (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Anjos da Noite: Guerras de Sangue (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANJOS DA NOITE: O DESPERTAR (2012)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ANJOS DA NOITE: O DESPERTAR (2012)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANJOS DA NOITE: UNDERWORLD (2003)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNDExNDEyMV5BMl5BanBnXkFtZTcwODY1OTkxMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ANJOS DA NOITE: UNDERWORLD (2003)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="APOSTANDO TUDO (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTEzOTYzOTctMDBjNi00NzMyLTkzNjgtYTIyNDAxOWNiMDIxXkEyXkFqcGdeQXVyMzI3MDEzMzM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",APOSTANDO TUDO (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ARMAS NA MESA (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyODY4Njc4MjBeQTJeQWpwZ15BbWU4MDI0NTIzMDAy._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ARMAS NA MESA (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASSASSIN'S CREED (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzE1OTczNTc1OF5BMl5BanBnXkFtZTgwMzgyMDI3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ASSASSIN'S CREED (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASSASSINO À PREÇO FIXO (2011)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyMjk1NjI1M15BMl5BanBnXkFtZTcwODcyNjAxNA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ASSASSINO À PREÇO FIXO (2011)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASSASSINO À PREÇO FIXO 2: A RESSURREIÇÃO (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjYwODExNzUwMV5BMl5BanBnXkFtZTgwNTgwNjUyOTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ASSASSINO À PREÇO FIXO 2: A RESSURREIÇÃO (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ATÉ O ÚLTIMO HOMEM (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ATÉ O ÚLTIMO HOMEM (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN (1989)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BATMAN (1989)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN & ROBIN (1997)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BATMAN & ROBIN (1997)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN BEGINS (2005)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BATMAN BEGINS (2005)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman: A Origem da Justiça (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Batman vs Superman: A Origem da Justiça (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN: ETERNAMENTE (1995)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNWY3M2I0YzItNzA1ZS00MzE3LThlYTEtMTg2YjNiOTYzODQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BATMAN: ETERNAMENTE (1995)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN: O CAVALEIRO DAS TREVAS (2008)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BATMAN: O CAVALEIRO DAS TREVAS (2008)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN: O CAVALEIRO DAS TREVAS RESSURGE (2012)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BATMAN: O CAVALEIRO DAS TREVAS RESSURGE (2012)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: O Filme (2017) DUB" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Batman: O Filme (2017) DUB
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN: O RETORNO (1992)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BATMAN: O RETORNO (1992)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD: O FILME (2017)" tvg-logo="http://topdezfilmes.org/wp-content/uploads/2017/03/Breaking-Bad-The-Movie.jpg" group-title="On Demand: Degustação",BREAKING BAD: O FILME (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BRUXA DE BLAIR (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0NTEyMjA3NV5BMl5BanBnXkFtZTgwODk5OTU4OTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BRUXA DE BLAIR (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCA EXPLOSIVA (2006)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0ODc5NzE3Nl5BMl5BanBnXkFtZTcwMDkxNzczMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BUSCA EXPLOSIVA (2006)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCA EXPLOSIVA 2 (2009)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MzYxMTgyN15BMl5BanBnXkFtZTcwMTIzODAxMw@@._V1_UY268_CR9,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BUSCA EXPLOSIVA 2 (2009)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCA EXPLOSIVA 3 (2013" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MDE1NjQ0NV5BMl5BanBnXkFtZTcwOTg2NDg1OQ@@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BUSCA EXPLOSIVA 3 (2013
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCA EXPLOSIVA 4 (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MzA1MDQyN15BMl5BanBnXkFtZTgwMDA1Mzk2NDE@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BUSCA EXPLOSIVA 4 (2015)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCA EXPLOSIVA 5: CAMPO DE BATALHA (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZTlmOGQxODQtYWI4NC00NDhiLWI3YzMtYTgxM2Y1NGI0YmJhXkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_UY268_CR2,0,182,268_AL_.jpg" group-title="On Demand: Degustação",BUSCA EXPLOSIVA 5: CAMPO DE BATALHA (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="On Demand: Degustação",CAPITÃO AMÉRICA 2: O SOLDADO INVERNAL (2014)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMÉRICA: GUERRA CIVIL (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",CAPITÃO AMÉRICA: GUERRA CIVIL (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",CAPITÃO AMÉRICA: O PRIMEIRO VINGADOR (2011)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CINQUENTA TONS DE CINZA (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",CINQUENTA TONS DE CINZA (2015)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinquenta Tons Mais Escuros - LEG" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Cinquenta Tons Mais Escuros - LEG
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CINQUENTA TONS MAIS ESCUROS(2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",CINQUENTA TONS MAIS ESCUROS(2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CORAGEM EM CAMPO (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3ODA0MjI0Ml5BMl5BanBnXkFtZTgwNTUwNDQxNjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",CORAGEM EM CAMPO (2015)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corra! (2017) - LEG" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Corra! (2017) - LEG
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEADPOOL (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="On Demand: Degustação",DEADPOOL (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEIDRA E LANEY ASSALTAM UM TREM (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyODg5Njc4N15BMl5BanBnXkFtZTgwMzExMjE3NzE@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="On Demand: Degustação",DEIDRA E LANEY ASSALTAM UM TREM (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOUTOR ESTRANHO (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",DOUTOR ESTRANHO (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESQUADRÃO DE ELITE (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMDQyMzJhYmMtMzIzZS00MDk3LTg3MDUtMGU3Njg5NDQxZWRjXkEyXkFqcGdeQXVyNjQ5ODMxNDQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ESQUADRÃO DE ELITE (2015)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESQUADRÃO SUICIDA (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",ESQUADRÃO SUICIDA (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fazenda dos Cisnes (2015)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1NTMxOTEwN15BMl5BanBnXkFtZTgwMDEzNTczNjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Fazenda dos Cisnes (2015)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FRANK & LOLA (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1OTAzMDQ0NF5BMl5BanBnXkFtZTgwODk3NTkzMDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",FRANK & LOLA (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER E A CÂMARA SECRETA (2002)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HARRY POTTER E A CÂMARA SECRETA (2002)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER E A ORDEM DA FÊNIX (2007)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HARRY POTTER E A ORDEM DA FÊNIX (2007)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER E A PEDRA FILOSOFAL (2001)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HARRY POTTER E A PEDRA FILOSOFAL (2001)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 1 (2010)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 1 (2010)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 2 (2011)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 2 (2011)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER E O CÁLICE DE FOGO (2005)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HARRY POTTER E O CÁLICE DE FOGO (2005)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER E O ENIGMA DO PRÍNCIPE (2009)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HARRY POTTER E O ENIGMA DO PRÍNCIPE (2009)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY POTTER E O PRISIONEIRO DE AZKABAN (2004)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HARRY POTTER E O PRISIONEIRO DE AZKABAN (2004)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO (2008)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HOMEM DE FERRO (2008)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 2 (2010)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HOMEM DE FERRO 2 (2010)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 3 (2013)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzMjEzMjY1M15BMl5BanBnXkFtZTcwNTMxOTYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HOMEM DE FERRO 3 (2013)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA (2002)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HOMEM-ARANHA (2002)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 2 (2004)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR6,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HOMEM-ARANHA 2 (2004)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 3 (2007)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",HOMEM-ARANHA 3 (2007)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IBOY (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjQxODM2MDAyM15BMl5BanBnXkFtZTgwODc4MTE0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",IBOY (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick: Um Novo Dia Para Matar (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",John Wick: Um Novo Dia Para Matar (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kong: A Ilha da Caveira (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwMzI5ODEwNF5BMl5BanBnXkFtZTgwNjAzNjI2MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Kong: A Ilha da Caveira (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOGAN (2017) - 16 ANOS DUB" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwODQwNTg4OV5BMl5BanBnXkFtZTgwMTk4MTAzMjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",LOGAN (2017) - 16 ANOS DUB
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moana: Um Mar de Aventuras (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Moana: Um Mar de Aventuras (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chamado 3 (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjU1NDAxNTg0MF5BMl5BanBnXkFtZTgwNzUxMjEwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Chamado 3 (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1501.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Espaço Entre Nós (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjYzODU1OTkwN15BMl5BanBnXkFtZTgwMDA3MTMwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Espaço Entre Nós (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O ESPETACULAR HOMEM-ARANHA (2012)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O ESPETACULAR HOMEM-ARANHA (2012)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O ESPETACULAR HOMEM-ARANHA 2: A AMEAÇA DE ELECTRO (2014)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O ESPETACULAR HOMEM-ARANHA 2: A AMEAÇA DE ELECTRO (2014)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: A Batalha dos Cinco Exércitos (2014)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Hobbit: A Batalha dos Cinco Exércitos (2014)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: A Desolação de Smaug (2013)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Hobbit: A Desolação de Smaug (2013)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit: Uma Jornada Inesperada (2012)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Hobbit: Uma Jornada Inesperada (2012)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O INCRIVEL HULK (2008)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O INCRIVEL HULK (2008)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poderoso Chefinho (2017) - DUB" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1OTIxMzQzNV5BMl5BanBnXkFtZTgwNzkxMTE3MjI@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Poderoso Chefinho (2017) - DUB
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: A Sociedade do Anel (2001)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Senhor dos Anéis: A Sociedade do Anel (2001)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: As Duas Torres (2002)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMDY0NmI4ZjctN2VhZS00YzExLTkyZGItMTJhOTU5NTg4MDU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Senhor dos Anéis: As Duas Torres (2002)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: O Retorno do Rei (2003)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",O Senhor dos Anéis: O Retorno do Rei (2003)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Guardiões (2017) - LEG" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZTQ4MjZkMjYtZTM2Ny00NDViLTllZmQtNjhiZmI5NzMyODU0XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Os Guardiões (2017) - LEG
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: A Maldição do Pérola Negra (2003)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Piratas do Caribe: A Maldição do Pérola Negra (2003)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: Navegando em Águas Misteriosas (2011)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Piratas do Caribe: Navegando em Águas Misteriosas (2011)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: No Fim do Mundo (2007)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Piratas do Caribe: No Fim do Mundo (2007)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: O Baú da Morte (2006)" tvg-logo="http://158.69.126.126:25461/images/0383574.jpg" group-title="On Demand: Degustação",Piratas do Caribe: O Baú da Morte (2006)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS (2017) - 10 ANOS DUB" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MTkxNzc5NF5BMl5BanBnXkFtZTgwOTM2Mzk3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",POWER RANGERS (2017) - 10 ANOS DUB
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 2: Apocalipse (2004)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Resident Evil 2: Apocalipse (2004)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 3: A Extinção (2007)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ0MWI3MmEtMzM0OC00Y2ViLWE4MDItMzNhNmY1ZTdjMWE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Resident Evil 3: A Extinção (2007)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 4: Recomeço (2010)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNzM3OTg5OF5BMl5BanBnXkFtZTcwMDA5MDA2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Resident Evil 4: Recomeço (2010)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 5: Retribuição (2012)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2NTkwNjUxNTZeQTJeQWpwZ15BbWU3MDE2OTMxMTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Resident Evil 5: Retribuição (2012)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 6: O Capítulo Final (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Resident Evil 6: O Capítulo Final (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Vingança (2017)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0OTQ0ODY1N15BMl5BanBnXkFtZTgwNjkxNjI4MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Resident Evil: A Vingança (2017)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: O Hóspede Maldito (2002)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BN2Y2MTljNjMtMDRlNi00ZWNhLThmMWItYTlmZjYyZDk4NzYxXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Resident Evil: O Hóspede Maldito (2002)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="T2 Trainspotting (2017) DUB" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTA0NDM0MF5BMl5BanBnXkFtZTgwMDMzMTQzMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",T2 Trainspotting (2017) DUB
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 8 (2017) - LEG" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Velozes e Furiosos 8 (2017) - LEG
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vida (2017) DUB" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Vida (2017) DUB
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warcraft: O Primeiro Encontro de Dois Mundos (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="On Demand: Degustação",Warcraft: O Primeiro Encontro de Dois Mundos (2016)
+http://mundogf.dyndns.tv:25461/movie/alexandrebarbosa/alexandrebarbosa/1515.mp4
